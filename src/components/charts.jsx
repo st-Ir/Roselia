@@ -34,7 +34,7 @@ import {
 } from "@/components/ui/collapsible";
 import { ChevronDown, ChevronUp } from "lucide-react";
 
-const API_URL = "http://localhost:2005/api";
+const API_URL = "https://supreme-capybara-9xv6577r7jvcvpg-2005.app.github.dev/api";
 const ALBUMS_PER_PAGE = 10;
 
 export default function MinimizableAlbumPerformanceChart() {

@@ -45,7 +45,7 @@ import {
 } from "@/components/ui/carousel";
 import { ScrollArea } from "@/components/ui/scroll-area";
 
-const API_URL = "http://localhost:2005/api";
+const API_URL = "https://supreme-capybara-9xv6577r7jvcvpg-2005.app.github.dev/api";
 
 const COLUMNS = [
   { key: "covers", label: "Covers", sortable: false },
