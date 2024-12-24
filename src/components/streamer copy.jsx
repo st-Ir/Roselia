@@ -33,7 +33,7 @@ import AlbumPerformanceChart from "./charts";
 import TabelDiscography from "./tabels";
 import Member from "./character";
 
-const API_URL = "http://localhost:2005/api";
+const API_URL = "https://supreme-capybara-9xv6577r7jvcvpg-2005.app.github.dev/api";
 
 export default function Component() {
   const [mediaList, setMediaList] = useState([]);
